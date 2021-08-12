@@ -1,0 +1,750 @@
+{
+  "LC": {
+    "titulo": "Matriz de Refer\u00eancia de Linguagens, C\u00f3digos e suas Tecnologias",
+    "competencias": [
+      {
+        "id_competencia": "1",
+        "texto_competencia": "Aplicar as tecnologias da comunica\u00e7\u00e3o e da informa\u00e7\u00e3o na escola, no trabalho e em outros contextos relevantes para sua vida."
+      },
+      {
+        "id_competencia": "2",
+        "texto_competencia": "Conhecer e usar l\u00edngua(s) estrangeira(s) moderna(s) como instrumento de acesso a informa\u00e7\u00f5es e a outras culturas e grupos sociais*."
+      },
+      {
+        "id_competencia": "3",
+        "texto_competencia": "Compreender e usar a linguagem corporal como relevante para a pr\u00f3pria vida, integradora social e formadora da identidade."
+      },
+      {
+        "id_competencia": "4",
+        "texto_competencia": "Compreender a arte como saber cultural e est\u00e9tico gerador de significa\u00e7\u00e3o e integrador da organiza\u00e7\u00e3o do mundo e da pr\u00f3pria identidade."
+      },
+      {
+        "id_competencia": "5",
+        "texto_competencia": "Analisar, interpretar e aplicar recursos expressivos das linguagens, relacionando textos com seus contextos, mediante a natureza, fun\u00e7\u00e3o, organiza\u00e7\u00e3o, estrutura das manifesta\u00e7\u00f5es, de acordo com as condi\u00e7\u00f5es de produ\u00e7\u00e3o e recep\u00e7\u00e3o."
+      },
+      {
+        "id_competencia": "6",
+        "texto_competencia": "Compreender e usar os sistemas simb\u00f3licos das diferentes linguagens como meios de organiza\u00e7\u00e3o cognitiva da realidade pela constitui\u00e7\u00e3o de significados, express\u00e3o, comunica\u00e7\u00e3o e informa\u00e7\u00e3o."
+      },
+      {
+        "id_competencia": "7",
+        "texto_competencia": "Confrontar opini\u00f5es e pontos de vista sobre as diferentes linguagens e suas manifesta\u00e7\u00f5es espec\u00edficas."
+      },
+      {
+        "id_competencia": "8",
+        "texto_competencia": "Compreender e usar a l\u00edngua portuguesa como l\u00edngua materna, geradora de significa\u00e7\u00e3o e integradora da organiza\u00e7\u00e3o do mundo e da pr\u00f3pria identidade."
+      },
+      {
+        "id_competencia": "9",
+        "texto_competencia": "Entender os princ\u00edpios, a natureza, a fun\u00e7\u00e3o e o impacto das tecnologias da comunica\u00e7\u00e3o e da informa\u00e7\u00e3o na sua vida pessoal e social, no desenvolvimento do conhecimento, associando-o aos conhecimentos cient\u00edficos, \u00e0s linguagens que lhes d\u00e3o suporte, \u00e0s demais tecnologias, aos processos de produ\u00e7\u00e3o e aos problemas que se prop\u00f5em solucionar."
+      }
+    ],
+    "habilidades": [
+      {
+        "id_habilidade": "1",
+        "texto_habilidade": "Identificar as diferentes linguagens e seus recursos expressivos como elementos de caracteriza\u00e7\u00e3o dos sistemas de comunica\u00e7\u00e3o.",
+        "id_competencia": "1"
+      },
+      {
+        "id_habilidade": "2",
+        "texto_habilidade": "Recorrer aos conhecimentos sobre as linguagens dos sistemas de comunica\u00e7\u00e3o e informa\u00e7\u00e3o para resolver problemas sociais.",
+        "id_competencia": "1"
+      },
+      {
+        "id_habilidade": "3",
+        "texto_habilidade": "Relacionar informa\u00e7\u00f5es geradas nos sistemas de comunica\u00e7\u00e3o e informa\u00e7\u00e3o, considerando a fun\u00e7\u00e3o social desses sistemas.",
+        "id_competencia": "1"
+      },
+      {
+        "id_habilidade": "4",
+        "texto_habilidade": "Reconhecer posi\u00e7\u00f5es cr\u00edticas aos usos sociais que s\u00e3o feitos das linguagens e dos sistemas de comunica\u00e7\u00e3o e informa\u00e7\u00e3o.",
+        "id_competencia": "1"
+      },
+      {
+        "id_habilidade": "5",
+        "texto_habilidade": "Associar voc\u00e1bulos e express\u00f5es de um texto em LEM ao seu tema.",
+        "id_competencia": "2"
+      },
+      {
+        "id_habilidade": "6",
+        "texto_habilidade": "Utilizar os conhecimentos da LEM e de seus mecanismos como meio de ampliar as possibilidades de acesso a informa\u00e7\u00f5es, tecnologias e culturas.",
+        "id_competencia": "2"
+      },
+      {
+        "id_habilidade": "7",
+        "texto_habilidade": "Relacionar um texto em LEM, as estruturas lingu\u00edsticas, sua fun\u00e7\u00e3o e seu uso social.",
+        "id_competencia": "2"
+      },
+      {
+        "id_habilidade": "8",
+        "texto_habilidade": "Reconhecer a import\u00e2ncia da produ\u00e7\u00e3o cultural em LEM como representa\u00e7\u00e3o da diversidade cultural e lingu\u00edstica.",
+        "id_competencia": "2"
+      },
+      {
+        "id_habilidade": "9",
+        "texto_habilidade": "Reconhecer as manifesta\u00e7\u00f5es corporais de movimento como origin\u00e1rias de necessidades cotidianas de um grupo social.",
+        "id_competencia": "3"
+      },
+      {
+        "id_habilidade": "10",
+        "texto_habilidade": "Reconhecer a necessidade de transforma\u00e7\u00e3o de h\u00e1bitos corporais em fun\u00e7\u00e3o das necessidades cinest\u00e9sicas.",
+        "id_competencia": "3"
+      },
+      {
+        "id_habilidade": "11",
+        "texto_habilidade": "Reconhecer a linguagem corporal como meio de intera\u00e7\u00e3o social, considerando os limites de desempenho e as alternativas de adapta\u00e7\u00e3o para diferentes indiv\u00edduos.",
+        "id_competencia": "3"
+      },
+      {
+        "id_habilidade": "12",
+        "texto_habilidade": "Reconhecer diferentes fun\u00e7\u00f5es da arte, do trabalho da produ\u00e7\u00e3o dos artistas em seus meios culturais.",
+        "id_competencia": "4"
+      },
+      {
+        "id_habilidade": "13",
+        "texto_habilidade": "Analisar as diversas produ\u00e7\u00f5es art\u00edsticas como meio de explicar diferentes culturas, padr\u00f5es de beleza e preconceitos.",
+        "id_competencia": "4"
+      },
+      {
+        "id_habilidade": "14",
+        "texto_habilidade": "Reconhecer o valor da diversidade art\u00edstica e das inter-rela\u00e7\u00f5es de elementos que se apresentam nas manifesta\u00e7\u00f5es de v\u00e1rios grupos sociais e \u00e9tnicos.",
+        "id_competencia": "4"
+      },
+      {
+        "id_habilidade": "15",
+        "texto_habilidade": "Estabelecer rela\u00e7\u00f5es entre o texto liter\u00e1rio e o momento de sua produ\u00e7\u00e3o, situando aspectos do contexto hist\u00f3rico, social e pol\u00edtico.",
+        "id_competencia": "5"
+      },
+      {
+        "id_habilidade": "16",
+        "texto_habilidade": "Relacionar informa\u00e7\u00f5es sobre concep\u00e7\u00f5es art\u00edsticas e procedimentos de constru\u00e7\u00e3o do texto liter\u00e1rio.",
+        "id_competencia": "5"
+      },
+      {
+        "id_habilidade": "17",
+        "texto_habilidade": "Reconhecer a presen\u00e7a de valores sociais e humanos atualiz\u00e1veis e permanentes no patrim\u00f4nio liter\u00e1rio nacional.",
+        "id_competencia": "5"
+      },
+      {
+        "id_habilidade": "18",
+        "texto_habilidade": "Identificar os elementos que concorrem para a progress\u00e3o tem\u00e1tica e para a organiza\u00e7\u00e3o e estrutura\u00e7\u00e3o de textos de diferentes g\u00eaneros e tipos.",
+        "id_competencia": "6"
+      },
+      {
+        "id_habilidade": "19",
+        "texto_habilidade": "Analisar a fun\u00e7\u00e3o da linguagem predominante nos textos em situa\u00e7\u00f5es espec\u00edficas de interlocu\u00e7\u00e3o.",
+        "id_competencia": "6"
+      },
+      {
+        "id_habilidade": "20",
+        "texto_habilidade": "Reconhecer a import\u00e2ncia do patrim\u00f4nio lingu\u00edstico para a preserva\u00e7\u00e3o da mem\u00f3ria e da identidade nacional.",
+        "id_competencia": "6"
+      },
+      {
+        "id_habilidade": "21",
+        "texto_habilidade": "Reconhecer em textos de diferentes g\u00eaneros, recursos verbais e n\u00e3o-verbais utilizados com a finalidade de criar e mudar comportamentos e h\u00e1bitos.",
+        "id_competencia": "7"
+      },
+      {
+        "id_habilidade": "22",
+        "texto_habilidade": "Relacionar, em diferentes textos, opini\u00f5es, temas, assuntos e recursos lingu\u00edsticos.",
+        "id_competencia": "7"
+      },
+      {
+        "id_habilidade": "23",
+        "texto_habilidade": "Inferir em um texto quais s\u00e3o os objetivos de seu produtor e quem \u00e9 seu p\u00fablico alvo, pela an\u00e1lise dos procedimentos argumentativos utilizados.",
+        "id_competencia": "7"
+      },
+      {
+        "id_habilidade": "24",
+        "texto_habilidade": "Reconhecer no texto estrat\u00e9gias argumentativas empregadas para o convencimento do p\u00fablico, tais como a intimida\u00e7\u00e3o, sedu\u00e7\u00e3o, como\u00e7\u00e3o, chantagem, entre outras.",
+        "id_competencia": "7"
+      },
+      {
+        "id_habilidade": "25",
+        "texto_habilidade": "Identificar, em textos de diferentes g\u00eaneros, as marcas lingu\u00edsticas que singularizam as variedades lingu\u00edsticas sociais, regionais e de registro.",
+        "id_competencia": "8"
+      },
+      {
+        "id_habilidade": "26",
+        "texto_habilidade": "Relacionar as variedades lingu\u00edsticas a situa\u00e7\u00f5es espec\u00edficas de uso social.",
+        "id_competencia": "8"
+      },
+      {
+        "id_habilidade": "27",
+        "texto_habilidade": "Reconhecer os usos da norma padr\u00e3o da l\u00edngua portuguesa nas diferentes situa\u00e7\u00f5es de comunica\u00e7\u00e3o.",
+        "id_competencia": "8"
+      },
+      {
+        "id_habilidade": "28",
+        "texto_habilidade": "Reconhecer a fun\u00e7\u00e3o e o impacto social das diferentes tecnologias da comunica\u00e7\u00e3o e informa\u00e7\u00e3o.",
+        "id_competencia": "9"
+      },
+      {
+        "id_habilidade": "29",
+        "texto_habilidade": "Identificar pela an\u00e1lise de suas linguagens, as tecnologias da comunica\u00e7\u00e3o e informa\u00e7\u00e3o.",
+        "id_competencia": "9"
+      },
+      {
+        "id_habilidade": "30",
+        "texto_habilidade": "Relacionar as tecnologias de comunica\u00e7\u00e3o e informa\u00e7\u00e3o ao desenvolvimento das sociedades e ao conhecimento que elas produzem.",
+        "id_competencia": "9"
+      }
+    ]
+  },
+  "MT": {
+    "titulo": "Matriz de Refer\u00eancia de Matem\u00e1tica e suas Tecnologias",
+    "competencias": [
+      {
+        "id_competencia": "1",
+        "texto_competencia": "Construir significados para os n\u00fameros naturais, inteiros, racionais e reais."
+      },
+      {
+        "id_competencia": "2",
+        "texto_competencia": "Utilizar o conhecimento geom\u00e9trico para realizar a leitura e a representa\u00e7\u00e3o da realidade e agir sobre ela."
+      },
+      {
+        "id_competencia": "3",
+        "texto_competencia": "Construir no\u00e7\u00f5es de grandezas e medidas para a compreens\u00e3o da realidade e a solu\u00e7\u00e3o de problemas do cotidiano."
+      },
+      {
+        "id_competencia": "4",
+        "texto_competencia": "Construir no\u00e7\u00f5es de varia\u00e7\u00e3o de grandezas para a compreens\u00e3o da realidade e a solu\u00e7\u00e3o de problemas do cotidiano."
+      },
+      {
+        "id_competencia": "5",
+        "texto_competencia": "Modelar e resolver problemas que envolvem vari\u00e1veis socioecon\u00f4micas ou t\u00e9cnico-cient\u00edficas, usando representa\u00e7\u00f5es alg\u00e9bricas."
+      },
+      {
+        "id_competencia": "6",
+        "texto_competencia": "Interpretar informa\u00e7\u00f5es de natureza cient\u00edfica e social obtidas da leitura de gr\u00e1ficos e tabelas, realizando previs\u00e3o de tend\u00eancia, extrapola\u00e7\u00e3o, interpola\u00e7\u00e3o e interpreta\u00e7\u00e3o."
+      },
+      {
+        "id_competencia": "7",
+        "texto_competencia": "Compreender o car\u00e1ter aleat\u00f3rio e n\u00e3o-determin\u00edstico dos fen\u00f4menos naturais e sociais e utilizar instrumentos adequados para medidas, determina\u00e7\u00e3o de amostras e c\u00e1lculos de probabilidade para interpretar informa\u00e7\u00f5es de vari\u00e1veis apresentadas em uma distribui\u00e7\u00e3o estat\u00edstica."
+      }
+    ],
+    "habilidades": [
+      {
+        "id_habilidade": "1",
+        "texto_habilidade": "Reconhecer, no contexto social, diferentes significados e representa\u00e7\u00f5es dos n\u00fameros e opera\u00e7\u00f5es - naturais, inteiros, racionais ou reais.",
+        "id_competencia": "1"
+      },
+      {
+        "id_habilidade": "2",
+        "texto_habilidade": "Identificar padr\u00f5es num\u00e9ricos ou princ\u00edpios de contagem.",
+        "id_competencia": "1"
+      },
+      {
+        "id_habilidade": "3",
+        "texto_habilidade": "Resolver situa\u00e7\u00e3o-problema envolvendo conhecimentos num\u00e9ricos.",
+        "id_competencia": "1"
+      },
+      {
+        "id_habilidade": "4",
+        "texto_habilidade": "Avaliar a razoabilidade de um resultado num\u00e9rico na constru\u00e7\u00e3o de argumentos sobre afirma\u00e7\u00f5es quantitativas.",
+        "id_competencia": "1"
+      },
+      {
+        "id_habilidade": "5",
+        "texto_habilidade": "Avaliar propostas de interven\u00e7\u00e3o na realidade utilizando conhecimentos num\u00e9ricos.",
+        "id_competencia": "1"
+      },
+      {
+        "id_habilidade": "6",
+        "texto_habilidade": "Interpretar a localiza\u00e7\u00e3o e a movimenta\u00e7\u00e3o de pessoas/objetos no espa\u00e7o tridimensional e sua representa\u00e7\u00e3o no espa\u00e7o bidimensional.",
+        "id_competencia": "2"
+      },
+      {
+        "id_habilidade": "7",
+        "texto_habilidade": "Identificar caracter\u00edsticas de figuras planas ou espaciais.",
+        "id_competencia": "2"
+      },
+      {
+        "id_habilidade": "8",
+        "texto_habilidade": "Resolver situa\u00e7\u00e3o-problema que envolva conhecimentos geom\u00e9tricos de espa\u00e7o e forma.",
+        "id_competencia": "2"
+      },
+      {
+        "id_habilidade": "9",
+        "texto_habilidade": "Utilizar conhecimentos geom\u00e9tricos de espa\u00e7o e forma na sele\u00e7\u00e3o de argumentos propostos como solu\u00e7\u00e3o de problemas do cotidiano.",
+        "id_competencia": "2"
+      },
+      {
+        "id_habilidade": "10",
+        "texto_habilidade": "Identificar rela\u00e7\u00f5es entre grandezas e unidades de medida.",
+        "id_competencia": "3"
+      },
+      {
+        "id_habilidade": "11",
+        "texto_habilidade": "Utilizar a no\u00e7\u00e3o de escalas na leitura de representa\u00e7\u00e3o de situa\u00e7\u00e3o do cotidiano.",
+        "id_competencia": "3"
+      },
+      {
+        "id_habilidade": "12",
+        "texto_habilidade": "Resolver situa\u00e7\u00e3o-problema que envolva medidas de grandezas.",
+        "id_competencia": "3"
+      },
+      {
+        "id_habilidade": "13",
+        "texto_habilidade": "Avaliar o resultado de uma medi\u00e7\u00e3o na constru\u00e7\u00e3o de um argumento consistente.",
+        "id_competencia": "3"
+      },
+      {
+        "id_habilidade": "14",
+        "texto_habilidade": "Avaliar proposta de interven\u00e7\u00e3o na realidade utilizando conhecimentos geom\u00e9tricos relacionados a grandezas e medidas.",
+        "id_competencia": "3"
+      },
+      {
+        "id_habilidade": "15",
+        "texto_habilidade": "Identificar a rela\u00e7\u00e3o de depend\u00eancia entre grandezas.",
+        "id_competencia": "4"
+      },
+      {
+        "id_habilidade": "16",
+        "texto_habilidade": "Resolver situa\u00e7\u00e3o-problema envolvendo a varia\u00e7\u00e3o de grandezas, direta ou inversamente proporcionais.",
+        "id_competencia": "4"
+      },
+      {
+        "id_habilidade": "17",
+        "texto_habilidade": "Analisar informa\u00e7\u00f5es envolvendo a varia\u00e7\u00e3o de grandezas como recurso para a constru\u00e7\u00e3o de argumenta\u00e7\u00e3o.",
+        "id_competencia": "4"
+      },
+      {
+        "id_habilidade": "18",
+        "texto_habilidade": "Avaliar propostas de interven\u00e7\u00e3o na realidade envolvendo varia\u00e7\u00e3o de grandezas.",
+        "id_competencia": "4"
+      },
+      {
+        "id_habilidade": "19",
+        "texto_habilidade": "Identificar representa\u00e7\u00f5es alg\u00e9bricas que expressem a rela\u00e7\u00e3o entre grandezas.",
+        "id_competencia": "5"
+      },
+      {
+        "id_habilidade": "20",
+        "texto_habilidade": "Interpretar gr\u00e1fico cartesiano que represente rela\u00e7\u00f5es entre grandezas.",
+        "id_competencia": "5"
+      },
+      {
+        "id_habilidade": "21",
+        "texto_habilidade": "Resolver situa\u00e7\u00e3o-problema cuja modelagem envolva conhecimentos alg\u00e9bricos.",
+        "id_competencia": "5"
+      },
+      {
+        "id_habilidade": "22",
+        "texto_habilidade": "Utilizar conhecimentos alg\u00e9bricos/geom\u00e9tricos como recurso para a constru\u00e7\u00e3o de argumenta\u00e7\u00e3o.",
+        "id_competencia": "5"
+      },
+      {
+        "id_habilidade": "23",
+        "texto_habilidade": "Avaliar propostas de interven\u00e7\u00e3o na realidade utilizando conhecimentos alg\u00e9bricos.",
+        "id_competencia": "5"
+      },
+      {
+        "id_habilidade": "24",
+        "texto_habilidade": "Utilizar informa\u00e7\u00f5es expressas em gr\u00e1ficos ou tabelas para fazer infer\u00eancias.",
+        "id_competencia": "6"
+      },
+      {
+        "id_habilidade": "25",
+        "texto_habilidade": "Resolver problema com dados apresentados em tabelas ou gr\u00e1ficos.",
+        "id_competencia": "6"
+      },
+      {
+        "id_habilidade": "26",
+        "texto_habilidade": "Analisar informa\u00e7\u00f5es expressas em gr\u00e1ficos ou tabelas como recurso para a constru\u00e7\u00e3o de argumentos.",
+        "id_competencia": "6"
+      },
+      {
+        "id_habilidade": "27",
+        "texto_habilidade": "Calcular medidas de tend\u00eancia central ou de dispers\u00e3o de um conjunto de dados expressos em uma tabela de frequ\u00eancias de dados agrupados (n\u00e3o em classes) ou em gr\u00e1ficos.",
+        "id_competencia": "7"
+      },
+      {
+        "id_habilidade": "28",
+        "texto_habilidade": "Resolver situa\u00e7\u00e3o-problema que envolva conhecimentos de estat\u00edstica e probabilidade.",
+        "id_competencia": "7"
+      },
+      {
+        "id_habilidade": "29",
+        "texto_habilidade": "Utilizar conhecimentos de estat\u00edstica e probabilidade como recurso para a constru\u00e7\u00e3o de argumenta\u00e7\u00e3o.",
+        "id_competencia": "7"
+      },
+      {
+        "id_habilidade": "30",
+        "texto_habilidade": "Avaliar propostas de interven\u00e7\u00e3o na realidade utilizando conhecimentos de estat\u00edstica e probabilidade.",
+        "id_competencia": "7"
+      }
+    ]
+  },
+  "CN": {
+    "titulo": "Matriz de Refer\u00eancia de Ci\u00eancias da Natureza e suas Tecnologias",
+    "competencias": [
+      {
+        "id_competencia": "1",
+        "texto_competencia": "Compreender as ci\u00eancias naturais e as tecnologias a elas associadas como constru\u00e7\u00f5es humanas, percebendo seus pap\u00e9is nos processos de produ\u00e7\u00e3o e no desenvolvimento econ\u00f4mico e social da humanidade."
+      },
+      {
+        "id_competencia": "2",
+        "texto_competencia": "Identificar a presen\u00e7a e aplicar as tecnologias associadas \u00e0s ci\u00eancias naturais em diferentes contextos."
+      },
+      {
+        "id_competencia": "3",
+        "texto_competencia": "Associar interven\u00e7\u00f5es que resultam em degrada\u00e7\u00e3o ou conserva\u00e7\u00e3o ambiental a processos produtivos e sociais e a instrumentos ou a\u00e7\u00f5es cient\u00edfico-tecnol\u00f3gicos."
+      },
+      {
+        "id_competencia": "4",
+        "texto_competencia": "Compreender intera\u00e7\u00f5es entre organismos e ambiente, em particular aquelas relacionadas \u00e0 sa\u00fade humana, relacionando conhecimentos cient\u00edficos, aspectos culturais e caracter\u00edsticas individuais."
+      },
+      {
+        "id_competencia": "5",
+        "texto_competencia": "Entender m\u00e9todos e procedimentos pr\u00f3prios das ci\u00eancias naturais e aplic\u00e1-los em diferentes contextos."
+      },
+      {
+        "id_competencia": "6",
+        "texto_competencia": "Apropriar-se de conhecimentos da f\u00edsica para, em situa\u00e7\u00f5es problema, interpretar, avaliar ou planejar interven\u00e7\u00f5es cient\u00edfico-tecnol\u00f3gicas."
+      },
+      {
+        "id_competencia": "7",
+        "texto_competencia": "Apropriar-se de conhecimentos da qu\u00edmica para, em situa\u00e7\u00f5es problema, interpretar, avaliar ou planejar interven\u00e7\u00f5es cient\u00edfico-tecnol\u00f3gicas."
+      },
+      {
+        "id_competencia": "8",
+        "texto_competencia": "Apropriar-se de conhecimentos da biologia para, em situa\u00e7\u00f5es problema, interpretar, avaliar ou planejar interven\u00e7\u00f5es cient\u00edfico-tecnol\u00f3gicas."
+      }
+    ],
+    "habilidades": [
+      {
+        "id_habilidade": "1",
+        "texto_habilidade": "Reconhecer caracter\u00edsticas ou propriedades de fen\u00f4menos ondulat\u00f3rios ou oscilat\u00f3rios, relacionando-os a seus usos em diferentes contextos.",
+        "id_competencia": "1"
+      },
+      {
+        "id_habilidade": "2",
+        "texto_habilidade": "Associar a solu\u00e7\u00e3o de problemas de comunica\u00e7\u00e3o, transporte, sa\u00fade ou outro, com o correspondente desenvolvimento cient\u00edfico e tecnol\u00f3gico.",
+        "id_competencia": "1"
+      },
+      {
+        "id_habilidade": "3",
+        "texto_habilidade": "Confrontar interpreta\u00e7\u00f5es cient\u00edficas com interpreta\u00e7\u00f5es baseadas no senso comum, ao longo do tempo ou em diferentes culturas.",
+        "id_competencia": "1"
+      },
+      {
+        "id_habilidade": "4",
+        "texto_habilidade": "Avaliar propostas de interven\u00e7\u00e3o no ambiente, considerando a qualidade da vida humana ou medidas de conserva\u00e7\u00e3o, recupera\u00e7\u00e3o ou utiliza\u00e7\u00e3o sustent\u00e1vel da biodiversidade.",
+        "id_competencia": "1"
+      },
+      {
+        "id_habilidade": "5",
+        "texto_habilidade": "Dimensionar circuitos ou dispositivos el\u00e9tricos de uso cotidiano.",
+        "id_competencia": "2"
+      },
+      {
+        "id_habilidade": "6",
+        "texto_habilidade": "Relacionar informa\u00e7\u00f5es para compreender manuais de instala\u00e7\u00e3o ou utiliza\u00e7\u00e3o de aparelhos, ou sistemas tecnol\u00f3gicos de uso comum.",
+        "id_competencia": "2"
+      },
+      {
+        "id_habilidade": "7",
+        "texto_habilidade": "Selecionar testes de controle, par\u00e2metros ou crit\u00e9rios para a compara\u00e7\u00e3o de materiais e produtos, tendo em vista a defesa do consumidor, a sa\u00fade do trabalhador ou a qualidade de vida.",
+        "id_competencia": "2"
+      },
+      {
+        "id_habilidade": "8",
+        "texto_habilidade": "Identificar etapas em processos de obten\u00e7\u00e3o, transforma\u00e7\u00e3o, utiliza\u00e7\u00e3o ou reciclagem de recursos naturais, energ\u00e9ticos ou mat\u00e9rias-primas, considerando processos biol\u00f3gicos, qu\u00edmicos ou f\u00edsicos neles envolvidos.",
+        "id_competencia": "3"
+      },
+      {
+        "id_habilidade": "9",
+        "texto_habilidade": "Compreender a import\u00e2ncia dos ciclos biogeoqu\u00edmicos ou do fluxo energia para a vida, ou da a\u00e7\u00e3o de agentes ou fen\u00f4menos que podem causar altera\u00e7\u00f5es nesses processos.",
+        "id_competencia": "3"
+      },
+      {
+        "id_habilidade": "10",
+        "texto_habilidade": "Analisar perturba\u00e7\u00f5es ambientais, identificando fontes, transporte e(ou) destino dos poluentes ou prevendo efeitos em sistemas naturais, produtivos ou sociais.",
+        "id_competencia": "3"
+      },
+      {
+        "id_habilidade": "11",
+        "texto_habilidade": "Reconhecer benef\u00edcios, limita\u00e7\u00f5es e aspectos \u00e9ticos da biotecnologia, considerando estruturas e processos biol\u00f3gicos envolvidos em produtos biotecnol\u00f3gicos.",
+        "id_competencia": "3"
+      },
+      {
+        "id_habilidade": "12",
+        "texto_habilidade": "Avaliar impactos em ambientes naturais decorrentes de atividades sociais ou econ\u00f4micas, considerando interesses contradit\u00f3rios.",
+        "id_competencia": "3"
+      },
+      {
+        "id_habilidade": "13",
+        "texto_habilidade": "Reconhecer mecanismos de transmiss\u00e3o da vida, prevendo ou explicando a manifesta\u00e7\u00e3o de caracter\u00edsticas dos seres vivos.",
+        "id_competencia": "4"
+      },
+      {
+        "id_habilidade": "14",
+        "texto_habilidade": "Identificar padr\u00f5es em fen\u00f4menos e processos vitais dos organismos, como manuten\u00e7\u00e3o do equil\u00edbrio interno, defesa, rela\u00e7\u00f5es com o ambiente, sexualidade, entre outros.",
+        "id_competencia": "4"
+      },
+      {
+        "id_habilidade": "15",
+        "texto_habilidade": "Interpretar modelos e experimentos para explicar fen\u00f4menos ou processos biol\u00f3gicos em qualquer n\u00edvel de organiza\u00e7\u00e3o dos sistemas biol\u00f3gicos.",
+        "id_competencia": "4"
+      },
+      {
+        "id_habilidade": "16",
+        "texto_habilidade": "Compreender o papel da evolu\u00e7\u00e3o na produ\u00e7\u00e3o de padr\u00f5es, processos biol\u00f3gicos ou na organiza\u00e7\u00e3o taxon\u00f4mica dos seres vivos.",
+        "id_competencia": "4"
+      },
+      {
+        "id_habilidade": "17",
+        "texto_habilidade": "Relacionar informa\u00e7\u00f5es apresentadas em diferentes formas de linguagem e representa\u00e7\u00e3o usadas nas ci\u00eancias f\u00edsicas, qu\u00edmicas ou biol\u00f3gicas, como texto discursivo, gr\u00e1ficos, tabelas, rela\u00e7\u00f5es matem\u00e1ticas ou linguagem simb\u00f3lica.",
+        "id_competencia": "5"
+      },
+      {
+        "id_habilidade": "18",
+        "texto_habilidade": "Relacionar propriedades f\u00edsicas, qu\u00edmicas ou biol\u00f3gicas de produtos, sistemas ou procedimentos tecnol\u00f3gicos \u00e0s finalidades a que se destinam.",
+        "id_competencia": "5"
+      },
+      {
+        "id_habilidade": "19",
+        "texto_habilidade": "Avaliar m\u00e9todos, processos ou procedimentos das ci\u00eancias naturais que contribuam para diagnosticar ou solucionar problemas de ordem social, econ\u00f4mica ou ambiental.",
+        "id_competencia": "5"
+      },
+      {
+        "id_habilidade": "20",
+        "texto_habilidade": "Caracterizar causas ou efeitos dos movimentos de part\u00edculas, subst\u00e2ncias, objetos ou corpos celestes.",
+        "id_competencia": "6"
+      },
+      {
+        "id_habilidade": "21",
+        "texto_habilidade": "Utilizar leis f\u00edsicas e (ou) qu\u00edmicas para interpretar processos naturais ou tecnol\u00f3gicos inseridos no contexto da termodin\u00e2mica e(ou) do eletromagnetismo.",
+        "id_competencia": "6"
+      },
+      {
+        "id_habilidade": "22",
+        "texto_habilidade": "Compreender fen\u00f4menos decorrentes da intera\u00e7\u00e3o entre a radia\u00e7\u00e3o e a mat\u00e9ria em suas manifesta\u00e7\u00f5es em processos naturais ou tecnol\u00f3gicos, ou em suas implica\u00e7\u00f5es biol\u00f3gicas, sociais, econ\u00f4micas ou ambientais.",
+        "id_competencia": "6"
+      },
+      {
+        "id_habilidade": "23",
+        "texto_habilidade": "Avaliar possibilidades de gera\u00e7\u00e3o, uso ou transforma\u00e7\u00e3o de energia em ambientes espec\u00edficos, considerando implica\u00e7\u00f5es \u00e9ticas, ambientais, sociais e/ou econ\u00f4micas.",
+        "id_competencia": "6"
+      },
+      {
+        "id_habilidade": "24",
+        "texto_habilidade": "Utilizar c\u00f3digos e nomenclatura da qu\u00edmica para caracterizar materiais, subst\u00e2ncias ou transforma\u00e7\u00f5es qu\u00edmicas.",
+        "id_competencia": "7"
+      },
+      {
+        "id_habilidade": "25",
+        "texto_habilidade": "Caracterizar materiais ou subst\u00e2ncias, identificando etapas, rendimentos ou implica\u00e7\u00f5es biol\u00f3gicas, sociais, econ\u00f4micas ou ambientais de sua obten\u00e7\u00e3o ou produ\u00e7\u00e3o.",
+        "id_competencia": "7"
+      },
+      {
+        "id_habilidade": "26",
+        "texto_habilidade": "Avaliar implica\u00e7\u00f5es sociais, ambientais e/ou econ\u00f4micas na produ\u00e7\u00e3o ou no consumo de recursos energ\u00e9ticos ou minerais, identificando transforma\u00e7\u00f5es qu\u00edmicas ou de energia envolvidas nesses processos.",
+        "id_competencia": "7"
+      },
+      {
+        "id_habilidade": "27",
+        "texto_habilidade": "Avaliar propostas de interven\u00e7\u00e3o no meio ambiente aplicando conhecimentos qu\u00edmicos, observando riscos ou benef\u00edcios.",
+        "id_competencia": "7"
+      },
+      {
+        "id_habilidade": "28",
+        "texto_habilidade": "Associar caracter\u00edsticas adaptativas dos organismos com seu modo de vida ou com seus limites de distribui\u00e7\u00e3o em diferentes ambientes, em especial em ambientes brasileiros.",
+        "id_competencia": "8"
+      },
+      {
+        "id_habilidade": "29",
+        "texto_habilidade": "Interpretar experimentos ou t\u00e9cnicas que utilizam seres vivos, analisando implica\u00e7\u00f5es para o ambiente, a sa\u00fade, a produ\u00e7\u00e3o de alimentos, mat\u00e9rias primas ou produtos industriais.",
+        "id_competencia": "8"
+      },
+      {
+        "id_habilidade": "30",
+        "texto_habilidade": "Avaliar propostas de alcance individual ou coletivo, identificando aquelas que visam \u00e0 preserva\u00e7\u00e3o e a implementa\u00e7\u00e3o da sa\u00fade individual, coletiva ou do ambiente.",
+        "id_competencia": "8"
+      }
+    ]
+  },
+  "CH": {
+    "titulo": "Matriz de Refer\u00eancia de Ci\u00eancias Humanas e suas Tecnologias",
+    "competencias": [
+      {
+        "id_competencia": "1",
+        "texto_competencia": "Compreender os elementos culturais que constituem as identidades"
+      },
+      {
+        "id_competencia": "2",
+        "texto_competencia": "Compreender as transforma\u00e7\u00f5es dos espa\u00e7os geogr\u00e1ficos como produto das rela\u00e7\u00f5es socioecon\u00f4micas e culturais de poder."
+      },
+      {
+        "id_competencia": "3",
+        "texto_competencia": "Compreender a produ\u00e7\u00e3o e o papel hist\u00f3rico das institui\u00e7\u00f5es sociais, pol\u00edticas e econ\u00f4micas, associando-as aos diferentes grupos, conflitos e movimentos sociais."
+      },
+      {
+        "id_competencia": "4",
+        "texto_competencia": "Entender as transforma\u00e7\u00f5es t\u00e9cnicas e tecnol\u00f3gicas e seu impacto nos processos de produ\u00e7\u00e3o, no desenvolvimento do conhecimento e na vida social."
+      },
+      {
+        "id_competencia": "5",
+        "texto_competencia": "Utilizar os conhecimentos hist\u00f3ricos para compreender e valorizar os fundamentos da cidadania e da democracia, favorecendo uma atua\u00e7\u00e3o consciente do indiv\u00edduo na sociedade."
+      },
+      {
+        "id_competencia": "6",
+        "texto_competencia": "Compreender a sociedade e a natureza, reconhecendo suas intera\u00e7\u00f5es no espa\u00e7o em diferentes contextos hist\u00f3ricos e geogr\u00e1ficos."
+      }
+    ],
+    "habilidades": [
+      {
+        "id_habilidade": "1",
+        "texto_habilidade": "Interpretar historicamente e/ou geograficamente fontes documentais acerca de aspectos da cultura.",
+        "id_competencia": "1"
+      },
+      {
+        "id_habilidade": "2",
+        "texto_habilidade": "Analisar a produ\u00e7\u00e3o da mem\u00f3ria pelas sociedades humanas.",
+        "id_competencia": "1"
+      },
+      {
+        "id_habilidade": "3",
+        "texto_habilidade": "Associar as manifesta\u00e7\u00f5es culturais do presente aos seus processos hist\u00f3ricos.",
+        "id_competencia": "1"
+      },
+      {
+        "id_habilidade": "4",
+        "texto_habilidade": "Comparar pontos de vista expressos em diferentes fontes sobre determinado aspecto da cultura.",
+        "id_competencia": "1"
+      },
+      {
+        "id_habilidade": "5",
+        "texto_habilidade": "Identificar as manifesta\u00e7\u00f5es ou representa\u00e7\u00f5es da diversidade do patrim\u00f4nio cultural e art\u00edstico em diferentes sociedades.",
+        "id_competencia": "1"
+      },
+      {
+        "id_habilidade": "6",
+        "texto_habilidade": "Interpretar diferentes representa\u00e7\u00f5es gr\u00e1ficas e cartogr\u00e1ficas dos espa\u00e7os geogr\u00e1ficos.",
+        "id_competencia": "2"
+      },
+      {
+        "id_habilidade": "7",
+        "texto_habilidade": "Identificar os significados hist\u00f3rico-geogr\u00e1ficos das rela\u00e7\u00f5es de poder entre as na\u00e7\u00f5es",
+        "id_competencia": "2"
+      },
+      {
+        "id_habilidade": "8",
+        "texto_habilidade": "Analisar a a\u00e7\u00e3o dos estados nacionais no que se refere \u00e0 din\u00e2mica dos fluxos populacionais e no enfrentamento de problemas de ordem econ\u00f4mico-social.",
+        "id_competencia": "2"
+      },
+      {
+        "id_habilidade": "9",
+        "texto_habilidade": "Comparar o significado hist\u00f3rico-geogr\u00e1fico das organiza\u00e7\u00f5es pol\u00edticas e socioecon\u00f4micas em escala local, regional ou mundial.",
+        "id_competencia": "2"
+      },
+      {
+        "id_habilidade": "10",
+        "texto_habilidade": "Reconhecer a din\u00e2mica da organiza\u00e7\u00e3o dos movimentos sociais e a import\u00e2ncia da participa\u00e7\u00e3o da coletividade na transforma\u00e7\u00e3o da realidade hist\u00f3rico-geogr\u00e1fica.",
+        "id_competencia": "2"
+      },
+      {
+        "id_habilidade": "11",
+        "texto_habilidade": "Identificar registros de pr\u00e1ticas de grupos sociais no tempo e no espa\u00e7o.",
+        "id_competencia": "3"
+      },
+      {
+        "id_habilidade": "12",
+        "texto_habilidade": "Analisar o papel da justi\u00e7a como institui\u00e7\u00e3o na organiza\u00e7\u00e3o das sociedades.",
+        "id_competencia": "3"
+      },
+      {
+        "id_habilidade": "13",
+        "texto_habilidade": "Analisar a atua\u00e7\u00e3o dos movimentos sociais que contribu\u00edram para mudan\u00e7as ou rupturas em processos de disputa pelo poder.",
+        "id_competencia": "3"
+      },
+      {
+        "id_habilidade": "14",
+        "texto_habilidade": "Comparar diferentes pontos de vista, presentes em textos anal\u00edticos e interpretativos, sobre situa\u00e7\u00e3o ou fatos de natureza hist\u00f3rico-geogr\u00e1fica acerca das institui\u00e7\u00f5es sociais, pol\u00edticas e econ\u00f4micas.",
+        "id_competencia": "3"
+      },
+      {
+        "id_habilidade": "15",
+        "texto_habilidade": "Avaliar criticamente conflitos culturais, sociais, pol\u00edticos, econ\u00f4micos ou ambientais ao longo da hist\u00f3ria.",
+        "id_competencia": "3"
+      },
+      {
+        "id_habilidade": "16",
+        "texto_habilidade": "Identificar registros sobre o papel das t\u00e9cnicas e tecnologias na organiza\u00e7\u00e3o do trabalho e/ou da vida social.",
+        "id_competencia": "4"
+      },
+      {
+        "id_habilidade": "17",
+        "texto_habilidade": "Analisar fatores que explicam o impacto das novas tecnologias no processo de territorializa\u00e7\u00e3o da produ\u00e7\u00e3o.",
+        "id_competencia": "4"
+      },
+      {
+        "id_habilidade": "18",
+        "texto_habilidade": "Analisar diferentes processos de produ\u00e7\u00e3o ou circula\u00e7\u00e3o de riquezas e suas implica\u00e7\u00f5es s\u00f3cio-espaciais.",
+        "id_competencia": "4"
+      },
+      {
+        "id_habilidade": "19",
+        "texto_habilidade": "Reconhecer as transforma\u00e7\u00f5es t\u00e9cnicas e tecnol\u00f3gicas que determinam as v\u00e1rias formas de uso e apropria\u00e7\u00e3o dos espa\u00e7os rural e urbano.",
+        "id_competencia": "4"
+      },
+      {
+        "id_habilidade": "20",
+        "texto_habilidade": "Selecionar argumentos favor\u00e1veis ou contr\u00e1rios \u00e0s modifica\u00e7\u00f5es impostas pelas novas tecnologias \u00e0 vida social e ao mundo do trabalho.",
+        "id_competencia": "4"
+      },
+      {
+        "id_habilidade": "21",
+        "texto_habilidade": "Identificar o papel dos meios de comunica\u00e7\u00e3o na constru\u00e7\u00e3o da vida social.",
+        "id_competencia": "5"
+      },
+      {
+        "id_habilidade": "22",
+        "texto_habilidade": "Analisar as lutas sociais e conquistas obtidas no que se refere \u00e0s mudan\u00e7as nas legisla\u00e7\u00f5es ou nas pol\u00edticas p\u00fablicas.",
+        "id_competencia": "5"
+      },
+      {
+        "id_habilidade": "23",
+        "texto_habilidade": "Analisar a import\u00e2ncia dos valores \u00e9ticos na estrutura\u00e7\u00e3o pol\u00edtica das sociedades.",
+        "id_competencia": "5"
+      },
+      {
+        "id_habilidade": "24",
+        "texto_habilidade": "Relacionar cidadania e democracia na organiza\u00e7\u00e3o das sociedades.",
+        "id_competencia": "5"
+      },
+      {
+        "id_habilidade": "25",
+        "texto_habilidade": "Identificar estrat\u00e9gias que promovam formas de inclus\u00e3o social.",
+        "id_competencia": "5"
+      },
+      {
+        "id_habilidade": "26",
+        "texto_habilidade": "Identificar em fontes diversas o processo de ocupa\u00e7\u00e3o dos meios f\u00edsicos e as rela\u00e7\u00f5es da vida humana com a paisagem.",
+        "id_competencia": "6"
+      },
+      {
+        "id_habilidade": "27",
+        "texto_habilidade": "Analisar de maneira cr\u00edtica as intera\u00e7\u00f5es da sociedade com o meio f\u00edsico, levando em considera\u00e7\u00e3o aspectos hist\u00f3ricos e(ou) geogr\u00e1ficos.",
+        "id_competencia": "6"
+      },
+      {
+        "id_habilidade": "28",
+        "texto_habilidade": "Relacionar o uso das tecnologias com os impactos s\u00f3cio-ambientais em diferentes contextos hist\u00f3rico-geogr\u00e1ficos.",
+        "id_competencia": "6"
+      },
+      {
+        "id_habilidade": "29",
+        "texto_habilidade": "Reconhecer a fun\u00e7\u00e3o dos recursos naturais na produ\u00e7\u00e3o do espa\u00e7o geogr\u00e1fico, relacionando-os com as mudan\u00e7as provocadas pelas a\u00e7\u00f5es humanas.",
+        "id_competencia": "6"
+      },
+      {
+        "id_habilidade": "30",
+        "texto_habilidade": "Avaliar as rela\u00e7\u00f5es entre preserva\u00e7\u00e3o e degrada\u00e7\u00e3o da vida no planeta nas diferentes escalas.",
+        "id_competencia": "6"
+      }
+    ]
+  }
+}
